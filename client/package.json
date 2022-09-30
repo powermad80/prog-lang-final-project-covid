@@ -16,7 +16,7 @@
         "react": "^16.14.0",
         "react-dom": "^16.14.0",
         "react-popover": "^0.5.10",
-        "recharts": "^1.8.5",
+        "recharts": "^2.1.14",
         "remotedev": "^0.2.9"
     },
     "devDependencies": {
